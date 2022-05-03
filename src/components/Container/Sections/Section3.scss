@@ -1,0 +1,174 @@
+.section3__fon {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 117%;
+}
+.section3__brend {
+  position: absolute;
+  bottom: 0;
+  left: 50px;
+  z-index: 1000;
+}
+
+.section__title {
+  position: absolute;
+  left: 32%;
+  top: 178px;
+  p {
+    font-size: 30px;
+    text-transform: uppercase;
+  }
+  h1 {
+    margin: 0;
+    margin-left: -7px;
+    font-size: 100px;
+    font-weight: 100;
+    text-transform: uppercase;
+
+    strong {
+      margin-left: -20px;
+      font-weight: bold;
+      font-family: 'Gilroy-bold';
+    }
+  }
+}
+.section3__block {
+  width: 716px;
+  position: absolute;
+  left: 248px;
+  bottom: 105px;
+  z-index: 1;
+  .wrapper__btn {
+    position: absolute;
+    bottom: 0;
+  }
+}
+.section3__block_item {
+  p {
+    width: 150px;
+    position: absolute;
+    top: 50px;
+    left: 40px;
+    font-size: 30px;
+    color: palevioletred;
+  }
+}
+.section3__block_item1 {
+  width: 374px;
+  height: 275px;
+  background-color: white;
+  box-shadow: 0px 0px 50px 1px rgb(235, 235, 235);
+  border-radius: 35px;
+  img {
+    position: absolute;
+    top: -48px;
+    left: 80px;
+    width: 80px;
+    height: 80px;
+  }
+  p {
+    width: 233px;
+    left: 93px;
+  }
+}
+.section3__block_item2 {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 280px;
+  height: 59%;
+  background-color: white;
+  box-shadow: 0px 0px 50px 1px rgb(235, 235, 235);
+  border-radius: 35px;
+
+  img {
+    position: absolute;
+    top: -40px;
+    left: 30px;
+    width: 80px;
+    height: 80px;
+  }
+}
+.section3__ball1 {
+  width: 200px;
+  bottom: 0;
+  left: 150px;
+  z-index: 1000;
+  animation: move 10s infinite;
+  pointer-events: none;
+}
+.section3__ball2 {
+  width: 120px;
+  z-index: 1000;
+  bottom: 100px;
+  left: 8px;
+  animation: move 10s infinite;
+}
+.section3__ball3 {
+  width: 80px;
+  z-index: 1000;
+  left: 170px;
+  animation: move 10s infinite;
+}
+.section3__ball4 {
+  width: 50px;
+  z-index: 1000;
+  left: 30px;
+  bottom: 300px;
+}
+.section3__ball5 {
+  width: 200px;
+  z-index: 100;
+  left: 150px;
+  bottom: 300px;
+  animation: move 15s infinite;
+}
+
+.ball__anim5 {
+  animation-name: ball__anim5;
+}
+@keyframes ball__anim5 {
+  from {
+    transform: translateX(0px);
+  }
+  to {
+    transform: translateX(100px) translateY(30px);
+  }
+}
+
+.ball__anim1 {
+  animation-name: ball__anim1;
+}
+@keyframes ball__anim1 {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.7);
+  }
+}
+
+.ball__anim3 {
+  animation-name: ball__anim3;
+}
+@keyframes ball__anim3 {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100px) translateY(30px);
+  }
+}
+
+.ball__anim2 {
+  animation-name: ball__anim2;
+}
+@keyframes ball__anim2 {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(60px) translateY(-100px);
+  }
+}

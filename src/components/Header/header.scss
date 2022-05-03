@@ -1,0 +1,26 @@
+.header {
+  position: fixed;
+  top: 40px;
+  left: 80px;
+  display: flex;
+  align-items: center;
+  z-index: 100;
+  svg {
+    cursor: pointer;
+  }
+  hr {
+    display: inline-block;
+    width: 30px;
+    height: 2px;
+    transform: rotate(90deg);
+    background-color: black;
+    border: none;
+    margin: 0 10px;
+  }
+  h2 {
+    font-size: 24px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    // font-family: 'Gilroy-bold';
+  }
+}
