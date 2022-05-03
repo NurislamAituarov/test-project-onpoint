@@ -1,14 +1,13 @@
 .wrapper {
   overflow: hidden;
   position: relative;
-  height: 768px;
+  height: 100%;
   transition: all 1s;
 }
 
 .wrapper__container {
   position: absolute;
   width: 300%;
-  height: 100%;
   display: flex;
   transition: all 1s;
   left: 0;
