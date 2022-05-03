@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/test-project-onpoint/static/css/main.9ad4237d.css",
+    "main.js": "/test-project-onpoint/static/js/main.0a009330.js",
+    "static/media/test_onpoint.jpg": "/test-project-onpoint/static/media/test_onpoint.868876202e244a797c37.jpg",
+    "static/media/brend.png": "/test-project-onpoint/static/media/brend.28a80a758db6c6306fa0.png",
+    "static/media/section2-img1.png": "/test-project-onpoint/static/media/section2-img1.b9810fb81151b499da0b.png",
+    "static/media/img5.png": "/test-project-onpoint/static/media/img5.6aa6fd5a3c477d29aebd.png",
+    "static/media/img6.png": "/test-project-onpoint/static/media/img6.9167859c7fd15c8c3d59.png",
+    "static/media/section2-img2.png": "/test-project-onpoint/static/media/section2-img2.0afc2b7892506f47d8bd.png",
+    "static/media/gilroy-regular.svg": "/test-project-onpoint/static/media/gilroy-regular.752586d2b065c82fc6b1.svg",
+    "static/media/gilroy-bold.svg": "/test-project-onpoint/static/media/gilroy-bold.dc2b9be11470e486f0c7.svg",
+    "static/media/img8.png": "/test-project-onpoint/static/media/img8.0ebe187bd24cc419da62.png",
+    "static/media/img3.png": "/test-project-onpoint/static/media/img3.9631d05054f0ca5c2b4a.png",
+    "static/media/gilroy-regular.eot": "/test-project-onpoint/static/media/gilroy-regular.1d051d9d4215c09cbcaa.eot",
+    "static/media/gilroy-bold.eot": "/test-project-onpoint/static/media/gilroy-bold.a732fed1bc6140852a0b.eot",
+    "static/media/gilroy-regular.ttf": "/test-project-onpoint/static/media/gilroy-regular.b91b0127c56a8e5f9e83.ttf",
+    "static/media/gilroy-bold.ttf": "/test-project-onpoint/static/media/gilroy-bold.b900325e44ec0c673e88.ttf",
+    "static/media/img1.png": "/test-project-onpoint/static/media/img1.7fb74597fb075cd66c6c.png",
+    "static/media/ball1.png": "/test-project-onpoint/static/media/ball1.4014c2fa63aea978aaea.png",
+    "static/media/img2.png": "/test-project-onpoint/static/media/img2.7e1530f58466c2f72f56.png",
+    "static/media/img7.png": "/test-project-onpoint/static/media/img7.1ba5778eb1466a52323f.png",
+    "static/media/gilroy-bold.woff": "/test-project-onpoint/static/media/gilroy-bold.5fb38b9fa452b5814397.woff",
+    "static/media/gilroy-regular.woff": "/test-project-onpoint/static/media/gilroy-regular.31d54a4b841c0e438f13.woff",
+    "static/media/img4.png": "/test-project-onpoint/static/media/img4.19155edf5f81cdb6e7f2.png",
+    "static/media/ball2.png": "/test-project-onpoint/static/media/ball2.abd86ca85b93a04fcf47.png",
+    "static/media/gilroy-bold.woff2": "/test-project-onpoint/static/media/gilroy-bold.0ad1eb915b2b169d8294.woff2",
+    "static/media/ball3.png": "/test-project-onpoint/static/media/ball3.bd858530a1bdcd8ba775.png",
+    "static/media/gilroy-regular.woff2": "/test-project-onpoint/static/media/gilroy-regular.00b026798f05ff9d7752.woff2",
+    "index.html": "/test-project-onpoint/index.html",
+    "static/media/nav-btn.svg": "/test-project-onpoint/static/media/nav-btn.9d34d7cc84cbc1e58496be3df4b07db7.svg",
+    "main.9ad4237d.css.map": "/test-project-onpoint/static/css/main.9ad4237d.css.map",
+    "main.0a009330.js.map": "/test-project-onpoint/static/js/main.0a009330.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ad4237d.css",
+    "static/js/main.0a009330.js"
+  ]
+}
