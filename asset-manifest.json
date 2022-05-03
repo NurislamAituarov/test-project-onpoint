@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/test-project-onpoint/static/css/main.9ad4237d.css",
+    "main.css": "/test-project-onpoint/static/css/main.e228be2d.css",
     "main.js": "/test-project-onpoint/static/js/main.0a009330.js",
     "static/media/test_onpoint.jpg": "/test-project-onpoint/static/media/test_onpoint.868876202e244a797c37.jpg",
     "static/media/brend.png": "/test-project-onpoint/static/media/brend.28a80a758db6c6306fa0.png",
@@ -29,11 +29,11 @@
     "static/media/gilroy-regular.woff2": "/test-project-onpoint/static/media/gilroy-regular.00b026798f05ff9d7752.woff2",
     "index.html": "/test-project-onpoint/index.html",
     "static/media/nav-btn.svg": "/test-project-onpoint/static/media/nav-btn.9d34d7cc84cbc1e58496be3df4b07db7.svg",
-    "main.9ad4237d.css.map": "/test-project-onpoint/static/css/main.9ad4237d.css.map",
+    "main.e228be2d.css.map": "/test-project-onpoint/static/css/main.e228be2d.css.map",
     "main.0a009330.js.map": "/test-project-onpoint/static/js/main.0a009330.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ad4237d.css",
+    "static/css/main.e228be2d.css",
     "static/js/main.0a009330.js"
   ]
 }
